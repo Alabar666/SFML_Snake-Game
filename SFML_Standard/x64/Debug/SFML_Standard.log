@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Snake Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Snake.cpp
+C:\ProjetosVisualStudio\GameTest\Snake Game\SFML_Standard\Snake.cpp(62,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\ProjetosVisualStudio\GameTest\Snake Game\SFML_Standard\Snake.cpp(62,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\ProjetosVisualStudio\GameTest\Snake Game\SFML_Standard\Snake.cpp(67,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\ProjetosVisualStudio\GameTest\Snake Game\SFML_Standard\Snake.cpp(67,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\ProjetosVisualStudio\GameTest\Snake Game\SFML_Standard\Snake.cpp(71,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\ProjetosVisualStudio\GameTest\Snake Game\SFML_Standard\Snake.cpp(71,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML_Standard.vcxproj -> C:\ProjetosVisualStudio\GameTest\Snake Game\x64\Debug\Snake.exe
